@@ -1,0 +1,3 @@
+/home/youyoujushi/文档/workspace/opencv/MOTDemo/build/CMakeFiles/edit_cache.dir
+/home/youyoujushi/文档/workspace/opencv/MOTDemo/build/CMakeFiles/rebuild_cache.dir
+/home/youyoujushi/文档/workspace/opencv/MOTDemo/build/CMakeFiles/MOTDemo.dir
