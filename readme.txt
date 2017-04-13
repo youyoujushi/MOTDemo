@@ -30,6 +30,10 @@ make
 1、config目录要和可执行文件在同一目录下，config目录是背景抽离算法要读取的配置文件目录。
 2、使用了c++11标准，如果c++编译器不支持c++11，请自行修改BgsNameEnum相关代码
 
+车流统计演示视频1：http://www.iqiyi.com/w_19rtxuhhdl.html
+车流统计演示视频2：http://www.iqiyi.com/w_19rtxuhi59.html 
+客流统计演示视频3：http://www.iqiyi.com/w_19rtxuhmt9.html
+
 结语
   如果我的demo对您有借鉴意义，我将感到非常荣幸，也希望您能给一些反馈或者改进建议。我本人对智能机器人领域非常感兴趣
 ，也希望能结交一些志同道合的朋友。QQ:幽幽居士（550335242）
